@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AutoFileName",
+		"CSScomb",
+		"Emmet",
+		"FuzzyFilePath",
+		"HTML5",
+		"Increment Selection",
+		"Incrementor",
+		"jQuery",
+		"jQuery Mobile 14 Snippets",
+		"jQuery Snippets pack",
+		"LiveReload",
+		"Package Control",
+		"Phpcs",
+		"Placeholders",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimePythonIDE",
+		"View In Browser",
+		"Xdebug Client"
+	]
+}
